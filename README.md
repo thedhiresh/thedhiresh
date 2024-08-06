@@ -8,10 +8,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Certified_Ethical_Hacker_logo.png/1280px-Certified_Ethical_Hacker_logo.png" alt="ceh" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Cisco_logo.svg" alt="cisco" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Certified_Ethical_Hacker_logo.png/1280px-Certified_Ethical_Hacker_logo.png" alt="ceh" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Metasploit_Logo.svg" alt="metasploit" width="30" height="30"/>
-    <img src="https://www.portswigger.net/web-security/burp-suite/images/burp-suite.svg" alt="burpsuite" width="30" height="30"/>
+    <img src="https://www.portswigger.net/burp-suite/images/burp-suite.svg" alt="burpsuite" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Wireshark_Logo.svg" alt="wireshark" width="30" height="30"/>
 </p>
 
