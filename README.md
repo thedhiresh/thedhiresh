@@ -10,8 +10,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
     <img src="https://static-00.iconduck.com/assets.00/cisco-icon-2048x2048-yvjuekbj.png" alt="cisco" width="30" height="30"/>
-    <img src="https://www.eccouncil.org/wp-content/uploads/2019/05/ceh.png" alt="ceh" width="30" height="30"/>
-    <img src="https://www.metasploit.com/images/metasploit-framework.svg" alt="metasploit" width="30" height="30"/>
+    <img src="https://m.eyeofriyadh.com/training/course_images/2019/03/213894c8472d9.png" alt="ceh" width="30" height="30"/>
+    <img src="https://w7.pngwing.com/pngs/122/777/png-transparent-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle-logo.png" alt="metasploit" width="30" height="30"/>
     <img src="https://www.portswigger.net/burp-suite/images/burp-suite.svg" alt="burpsuite" width="30" height="30"/>
     <img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" alt="wireshark" width="30" height="30"/>
 </p>
