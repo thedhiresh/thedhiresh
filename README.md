@@ -26,6 +26,13 @@
 - 🌱 **I’m currently learning Python** and exploring its potential for web development and automation.
 - 📫 **How to reach me**: [kushwahadhiresh1@gmail.com](mailto:kushwahadhiresh1@gmail.com)
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="thedhiresh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="thedhiresh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedhiresh&" alt="thedhiresh" /></p>
+
+
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
