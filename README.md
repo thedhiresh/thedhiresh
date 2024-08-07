@@ -27,7 +27,7 @@
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  👋 I’m currently working as a website developer.<br>
+  👋 I’m currently working as a website developer and Freelancer.<br>
   👀 I’m interested in Bug Bounty and Development.<br>
   🌱 I’m currently learning Python** and exploring its potential for web development and automation.
 </p>
