@@ -32,8 +32,9 @@
     <a href="https://www.linkedin.com/in/dhiresh-kumar-b42b26308/" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn - Dhiresh Kumar" height="30" width="30" />
     </a>
-    <a href="mailto:kushwahadhiresh1@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)" alt="gmail - Dhiresh Kumar" height="30" width="30" />
-</a>
+    <a href="mailto:kushwahadhiresh1@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail - Dhiresh Kumar" height="30" width="30" />
+    </a>
 </p>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="thedhiresh" /></p>
