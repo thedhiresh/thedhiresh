@@ -36,6 +36,40 @@
         <img src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="Gmail - Dhiresh Kumar" height="30" width="30" />
     </a>
 </p>
+<!-- Banner Section -->
+<div align="center" style="background-color: #003366; color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <h1>Dhiresh Kumar</h1>
+    <p>Achievements, Certifications, and Skills</p>
+</div>
+
+<!-- Achievements Section -->
+<details>
+    <summary><strong>Achievements</strong></summary>
+    <ul>
+        <li>Cybarray</li>
+        <li>Hack The Box</li>
+    </ul>
+</details>
+
+<!-- Certifications Section -->
+<details>
+    <summary><strong>Certifications</strong></summary>
+    <ul>
+        <!-- Add your certifications here -->
+        <li>Certification 1</li>
+        <li>Certification 2</li>
+    </ul>
+</details>
+
+<!-- Skills Section -->
+<details>
+    <summary><strong>Skills</strong></summary>
+    <ul>
+        <!-- Add your skills here -->
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+    </ul>
+</details>
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="thedhiresh" /></p>
