@@ -33,7 +33,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn - Dhiresh Kumar" height="30" width="30" />
     </a>
     <a href="mailto:kushwahadhiresh1@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail - Dhiresh Kumar" height="30" width="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png" alt="Gmail - Dhiresh Kumar" height="30" width="30" />
     </a>
 </p>
 
