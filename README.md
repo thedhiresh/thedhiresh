@@ -27,9 +27,9 @@
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  👋 **I’m currently working as a website developer.**<br>
-  👀 **I’m interested in Bug Bounty and Development.**<br>
-  🌱 **I’m currently learning Python** and exploring its potential for web development and automation.
+  👋 I’m currently working as a website developer.<br>
+  👀 I’m interested in Bug Bounty and Development.<br>
+  🌱 I’m currently learning Python** and exploring its potential for web development and automation.
 </p>
 
 <!-- Contact Section -->
@@ -48,8 +48,6 @@
 
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedhiresh&" alt="GitHub Streak" />
-</p>
