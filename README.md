@@ -25,11 +25,16 @@
 - 👀 **I’m interested in Bug Bounty and Development.**
 - 🌱 **I’m currently learning Python** and exploring its potential for web development and automation.
 - 📫 **How to reach me**:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/thedhiresh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the dhiresh" height="30" width="40" /></a>
-[kushwahadhiresh1@gmail.com](mailto:kushwahadhiresh1@gmail.com)
-</p> 
+<p style="text-align: left;">
+    <a href="https://www.instagram.com/thedhiresh/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - The Dhiresh" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/dhiresh-kumar-b42b26308/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn - Dhiresh Kumar" height="30" width="30" />
+    </a>
+    <a href="mailto:kushwahadhiresh1@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)" alt="gmail - Dhiresh Kumar" height="30" width="30" />
+</a>
+</p>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="thedhiresh" /></p>
 
