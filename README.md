@@ -36,43 +36,6 @@
         <img src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="Gmail - Dhiresh Kumar" height="30" width="30" />
     </a>
 </p>
-
-<!-- Stylish Banner Section -->
-<div align="center" style="background: linear-gradient(145deg, #003366, #00509E); color: white; padding: 20px; border-radius: 12px; box-shadow: 4px 4px 8px rgba(0,0,0,0.3); margin-bottom: 20px;">
-    <h1 style="font-size: 2.5em; margin: 0;">Dhiresh Kumar</h1>
-    <p style="font-size: 1.2em;">Achievements, Certifications, and Skills</p>
-</div>
-
-<!-- Achievements Section -->
-<details>
-    <summary><strong style="font-size: 1.5em;">Achievements</strong></summary>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>Cybarray</li>
-        <li>Hack The Box</li>
-    </ul>
-</details>
-
-<!-- Certifications Section -->
-<details>
-    <summary><strong style="font-size: 1.5em;">Certifications</strong></summary>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-        <!-- Add your certifications here -->
-        <li>Certification 1</li>
-        <li>Certification 2</li>
-    </ul>
-</details>
-
-<!-- Skills Section -->
-<details>
-    <summary><strong style="font-size: 1.5em;">Skills</strong></summary>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-        <!-- Add your skills here -->
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-    </ul>
-</details>
-
-
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="thedhiresh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="thedhiresh" /></p>
