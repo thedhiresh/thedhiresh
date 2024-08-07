@@ -8,7 +8,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30" style="margin: 5px;"/>
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="hack the box" width="30" height="30" style="margin: 5px;"/>
+    <img src="https://avatars.githubusercontent.com/u/13155350?s=280&v=4" alt="cybrary" width="30" height="30" style="margin: 5px;"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30" style="margin: 5px;"/>
     <img src="https://static-00.iconduck.com/assets.00/cisco-icon-2048x2048-yvjuekbj.png" alt="cisco" width="30" height="30" style="margin: 5px;"/>
     <img src="https://m.eyeofriyadh.com/training/course_images/2019/03/213894c8472d9.png" alt="ceh" width="30" height="30" style="margin: 5px;"/>
     <img src="https://w7.pngwing.com/pngs/122/777/png-transparent-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle-logo.png" alt="metasploit" height="30" style="margin: 5px;"/>
