@@ -7,6 +7,9 @@
 <!-- Skills and Tools Section -->
 <h2 align="center">Skills & Tools</h2>
 <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="30" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30" style="margin: 5px;"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" style="margin: 5px;"/>
