@@ -6,7 +6,7 @@
 
 <!-- Skills and Tools Section -->
 <h2 align="center">Skills & Tools</h2>
-<p align="center">
+<p align="center" style="display:inline;" >
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3nHZFQXO04HWHkHB9irDHsEb40VKK6ivwXbIIO6tANc9gmMOjw_ac5pJzIZjVNL5I78&usqp=CAU" alt="C#" height="30" style="margin: 5px;"/>
   </a>
