@@ -7,6 +7,9 @@
 <!-- Skills and Tools Section -->
 <h2 align="center">Skills & Tools</h2>
 <p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/C_Sharp_logo.svg/2560px-C_Sharp_logo.svg.png" alt="C#" height="30" style="margin: 5px;"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="30" style="margin: 5px;"/>
   </a>
@@ -65,9 +68,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="Linux" height="30" style="margin: 5px;"/>
   </a>
   <a href="https://www.arduino.cc" target="_blank">
-    <img src="https://camo.githubusercontent.com/f291ab881e7b284e6788559ce452a5aecb833d947503dbc3b33033bb7555e2c5/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="Arduino" height="30" style="margin: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="Arduino" height="30" style="margin: 5px;"/>
   </a>
 </p>
+
 
 
 <!-- About Me Section -->
