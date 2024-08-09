@@ -8,7 +8,7 @@
 <h2 align="center">Skills & Tools</h2>
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3nHZFQXO04HWHkHB9irDHsEb40VKK6ivwXbIIO6tANc9gmMOjw_ac5pJzIZjVNL5I78&usqp=CAU" alt="C#" height="30" style="margin: 5px;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3nHZFQXO04HWHkHB9irDHsEb40VKK6ivwXbIIO6tANc9gmMOjw_ac5pJzIZjVNL5I78&usqp=CAU" alt="C#" width="30" height="30" style="margin: 5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="30" style="margin: 5px;"/>
