@@ -108,5 +108,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 10px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedhiresh&" alt="GitHub Streak" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/thedhiresh/thedhiresh/output/snake.svg" alt="Snake animation" />
+
+###
 </p>
 
