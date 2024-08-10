@@ -76,20 +76,19 @@
 
 <!-- About Me Section -->
 <h2 align="center" style="font-size: 1.5em; color: #444;">About Me</h2>
-<div style="display:flex">
-<div style="font-size: 1.1em; color: #666; width:50%">
-  👋 I’m currently working as a website developer and Freelancer.<br>
+
+
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
+
+ 👋 I’m currently working as a website developer and Freelancer.<br>
   👀 I’m interested in Bug Bounty and Development.<br>
   🌱 I’m currently learning Python and exploring its potential for web development and automation.
-</div>
-<div style="width:50%">
-  <img 
-    src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
-    alt="Image Description"
-    style="height: 150px; width: 100%; max-width: 100%;"
-  />
-</div>
-</div>
+
+
+
+<br>
+
 
 <!-- Contact Section -->
 <h2 align="center" style="font-size: 1.5em; color: #444;">Connect with Me</h2>
