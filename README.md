@@ -108,9 +108,9 @@
 <!-- GitHub Stats Section -->
 <h2 align="center" style="font-size: 1.5em; color: #444;">GitHub Stats</h2>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="GitHub Stats" style="width: full; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedhiresh&" alt="GitHub Streak" style="width: full; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: full; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedhiresh&show_icons=true&locale=en" alt="GitHub Stats" style="width: full-width; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedhiresh&" alt="GitHub Streak" style="width: full-width; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhiresh&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: full-width; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 
 </p>
 
